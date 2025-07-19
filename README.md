@@ -4,6 +4,7 @@ A benchmark of LLMs for diet recommendations with Foods with Live Microbes (FLM)
 # Table of Contents
 - [Installation](#installation)
 - [Preparation](#preparation)
+- [Execution](#execution)
 
 ## Installation
 
